@@ -16,8 +16,8 @@ class _HomeworkState extends State<Homework> {
           Container(
               margin: EdgeInsets.fromLTRB(0, 10, 0, 0),
               child: Text(
-                "วิชา : เทคโนโลยีการพาณิชย์บนอุปกรณ์เคลื่อนที่",
-                textAlign: TextAlign.left,
+                "วิชา : การออกแบบและพัฒนาเว็บไซต์",
+                textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 22.0,
                 ),
@@ -25,7 +25,7 @@ class _HomeworkState extends State<Homework> {
           Container(
             margin: EdgeInsets.fromLTRB(5, 10, 0, 0),
             child: Text(
-              "Assignment 1:  ให้ค้นคว้าและอภิปรายเกี่ยวกับการชำระเงินผ่านดิจิทัล (Digital Payment) ทั้งหลักการทำงาน ข้อดี ข้อเสีย ตลอดจนสินค้าและบริการที่เหมาะสมกับการชำระเงินแต่ระประเภทและจงอธิบายธุรกิจที่มีการทำ Subscription พร้อมวิเคราะห์ความเหมาะสมของแต่ธุรกิจ",
+              "Assignment 1:  ให้ออกแบบหน้าเว็บไซต์ข้อมูลการขายสินค้าออนไลน์ ",
               textAlign: TextAlign.left,
               style: TextStyle(
                 fontSize: 20.0,
@@ -35,7 +35,7 @@ class _HomeworkState extends State<Homework> {
           Container(
             margin: EdgeInsets.fromLTRB(5, 10, 0, 0),
             child: Text(
-              "Assignment 2: Flutter Page Navigationให้นักศึกษาสร้างแอปพลิเคชันด้วย Flutter ให้มีหน้าจอแสดงปุ่มเมนูต่าง ๆ แต่ละปุ่มให้ไปเปิดหน้าต่าง ๆ",
+              "Assignment 2: ให้นักศึกษาสร้างปุ่มและลิ้งเข้าหากันภายในหน้าต่างๆของเว็บไซต์อย่างน้อย5 หน้า",
               textAlign: TextAlign.left,
               style: TextStyle(
                 fontSize: 20.0,
